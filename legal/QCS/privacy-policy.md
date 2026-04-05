@@ -2,7 +2,7 @@
 
 最終更新日: 2026年4月5日
 
-本ポリシーは、CookieySun（旧: kkt-yu）が提供する Android アプリ「Quick Code Share」（以下「本アプリ」）における個人情報の取り扱いについて定めるものです。
+本ポリシーは、CookieySunが提供する Android アプリ「Quick Code Share」（以下「本アプリ」）における個人情報の取り扱いについて定めるものです。
 
 ## 個人情報の取得について
 
